@@ -3,3 +3,4 @@ Utilities I got for my ps4 / ps4linux instance
 
 # What I have:
 - [HDD_KEYS_python3.py](https://github.com/IsaacMvmv/PS4-Utilities/releases/tag/HDD_KEYS_python3): Script ported to python 3 which extracts the HDD key of a given sflash0 file.
+- [PS4-mesa](https://github.com/IsaacMvmv/mesa-ps4): Mesa source for ps4linux which gives opengl & vulkan support on X11 and wayland
