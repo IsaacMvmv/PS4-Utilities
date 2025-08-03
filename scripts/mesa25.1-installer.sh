@@ -30,7 +30,7 @@ mv PS4_Mesa_25.1.0-devel_VvSx87_32\&64Bits/*.zst .
 rm -rf PS4_Mesa_25.1.0-devel_VvSx87_32\&64Bits PS4_Mesa_25.1.0-devel_VvSx87_32.64Bits.zip
 
 # Install everything (Hopefully no errors will pop out)
-sudo pacman -U --noconfirm *.zst
+sudo pacman -U *.zst
 
 # Cleaning in case it hopefully installed everything alright
 rm /tmp/*.zst
