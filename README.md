@@ -8,4 +8,4 @@ Utilities I got for my ps4 / ps4linux instance
 It can be easily ran with:
 ```
 curl -sSL https://raw.githubusercontent.com/IsaacMvmv/PS4-Utilities/main/scripts/mesa25.1-installer.sh | bash
-``
+```
