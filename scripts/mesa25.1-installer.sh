@@ -11,7 +11,7 @@ rm /tmp/*.zst
 set -e
 
 # Deps
-sudo pacman -S wget unzip --needed
+sudo pacman -S wget unzip libxml2-legacy --needed
 
 # All the nasty stuff goes on /tmp
 cd /tmp
